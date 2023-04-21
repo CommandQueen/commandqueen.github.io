@@ -1,0 +1,24 @@
+div {
+    text-align: center;
+    color: thistle;
+}
+
+h1 {
+    color: rgb(236, 235, 235);
+    background-color: oldlace;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-align: inherit;
+}
+
+body {
+    background-color: rgb(236, 211, 211);
+}
+
+.scrollable {
+    background-color: rgb(236, 233, 233);
+    white-space: nowrap;
+    overflow: auto;
+    text-align: right;
+}
